@@ -8,9 +8,6 @@ This assignment main task is is to build an API for a social network web applica
 
 ## Usage
 
-
-Link to demo: 
-
 ## License
 
 N/A
